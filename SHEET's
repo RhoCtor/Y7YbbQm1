@@ -3327,30 +3327,32 @@ DB GT DAN DAN KOKO
 [^yd] [9PJ] [qOH] [oh]-[ig] [YD] [ig] 
 [8uf] 0 [wl] s k a j p 
 h o g i f u d y 
-[%s] 8 ( [8s] [%s] [8s] [(s] [8s] 
-[^s] 9 [qP] [9O] ^ [9P] [qs] 9 
-[5P] ^ 9 [^P] [5P] [^P] [9P] [^P] 
-[8P] ( [wO] [(o] 8 [(O] [wP] ( 
-[4O] % 8 [%O] [4O] %O8 [%O] 
-[5O] ^ [9o] [^o] 5 [^o] 9 [^i] 
-[8i] ( [wo] ( 8 [(Y] [wi] [(o] 
-( w E w ( [wO] [EO] [wP] 
-[%s] 8 ( [8s] [%s] [8s] [(s] [8s] 
-[^s] 9 [qP] [9O] ^ [9P] [qs] 9 
-[5P] ^ 9 [^P] [5P] ^s9 [^d] 
-[8d] ( [wD] [(P] 8 [(O] w [(o] 
-[4O] % 8 % 4 [%O] [8P] [%O] 
-[5O] ^o9 [^o] [5o] ^h9 [^g] 
-[8g] ( w ( [8g] [(D] [wd] [(D] 
-( w E w [(s] w [Ed] w 
-[s%D] 8[sD]( [8s] [s%D] 8[sD]( [8s] 
-[s%D] 8 ( [8s] [%g] [8D] [(d] [8s] 
-[5s] ^[oP]9 [^o] [5oP] ^[oP]9 [^o] 
-[5oP] ^[oP]9 [^o] [5oP] ^s9 [^d] 
-[8d] ( [wD] [(s] 8 ( w ( 
-[%d] 8 [(D] [8s] % 8 [(h] 8 
-[4g] % 8 [%g] [4g] [%D] [8g] [%h] 
-5 w q w 0 w 9 w 
++3
+[4p] 6 8 [6p] [4p] [6p] [8p] [6p]
+[5p] 7 [9o] [7i] 5 [7o] [9p] 7
+[3o] 5 7 [5o] [3o] [5o] [7o] [5o]
+[6o] 8 [0i] [8u] 6 [8i] [0o] 8
+[2i] 4 6 [4i] [2i] 4i6 [4i]
+[3i] 5 [7u] [5u] 3 [5u] 7 [5y]
+[6y] 8 [0u] 8 6 [8t] [0y] [8u]
+8 0 w 0 8 [0i] [wi] [0o]
+[4p] 6 8 [6p] [4p] [6p] [8p] [6p]
+[5p] 7 [9o] [7i] 5 [7o] [9p] 7
+[3o] 5 7 [5o] [3o] 5p7 [5a]
+[6a] 8 [0s] [8o] 6 [8i] 0 [8u]
+[2i] 4 6 4 2 [4i] [6o] [4i]
+[3i] 5u7 [5u] [3u] 5f7 [5d]
+[6d] 8 0 8 [6d] [8s] [0a] [8s]
+8 0 w 0 [8p] 0 [wa] 0
+[4ps] 6[ps]8 [6p] [4ps] 6[ps]8 [6p]
+[4ps] 6 8 [6p] [4d] [6s] [8a] [6p]
+[3p] 5[uo]7 [5u] [3uo] 5[uo]7 [5u]
+[3uo] 5[uo]7 [5u] [3uo] 5p7 [5a]
+[6a] 8 [0s] [8p] 6 8 0 8
+[4a] 6 [8s] [6p] 4 6 [8f] 6
+[2d] 4 6 [4d] [2d] [4s] [6d] [4f]
+3 0 9 0 * 0 7 0
+
 [8sh] 0 [wsh] t [usf] [tsg] [wsh] [0sj] 
 [5ah] 7 [9ag] w [raf] w [9ad] 7 
 [6psf] 8 [0psf] e [tps] [epd] [0sf] [8sg] 
@@ -3371,65 +3373,6 @@ h o g i f u d y
 [^yd] [9PJ] [qOH] [oh]-[ig] [YD] [ig] 
 [8ig] 0 w t--[osh] [isg] 
 [usf]
-/
-[5o]###[5o]###[59wos]###[59w]###[59w]###[59w]###[59w]###
-[59w]###[59w]###[oh]###[ig]###[oh]###[uf]###[oh]###
-[yd]###[oh]###[18osfh]###[osfh]###[0wt]###[uf]###[ig]###
-[0wtoh]###[pj]###[5woadh]###[ig]###[9wr]###[uf]###
-[9wryd]###[6eupsf]###[upsf]###[0et]###[ts]###[yd]###
-[0etuf]###[ig]###[30uoaf]###[yd]###[0wr]###[ts]###
-[0wra]###[4q]###[ep]###[eti]###[ts]###
-[etipj]###[30osfh]###[osfh]###[0wrts]###
-[0wryd]###[uf]###[P29idg]###[uf]###[qey]###[yd]###
-[qetys]###[5wyoad]###[wry]###[ts]###
-[wrya]###[%Wts]###O###o###[(Wti]###Y###
-[(Wty]###Y###[^d]###J###H###[E9qh]###g###
-[9qED]###g###[0tosf]###s###l###a###k###
-p###j###o###h###i###g###u###f###
-y###d###[4qts]###[Wtis]###s###
-[Wtis]###s###[^Es]###P###[yiEO]###P###
-[Eyis]###[5wyiP]###[Ewyo]###P###P###
-[wyEP]###P###[18oYP]###O###[(wto]###O###
-[wt(P]###[4qtYO]###[Wqt]###O###O###
-[qtWO]###O###[29iO]###O###[Wqyo]###i###
-[Wqyi]###i###[W18ti]###o###[(wt]###Y###i###
-[(wt]###[Eyo]###[@(]###[wEY]###O###
-[wEYO]###P###[%WYos]###[WYts]###s###
-[tWY]###s###[%WYos]###P###[tWYO]###P###
-[WYts]###[5wyiP]###[wyEO]###P###s###
-[Ewy]###d###[P18od]###D###[(wt]###P###O###
-[(wt]###o###[4qtYO]###[Wqt]###P###
-[Wqt]###O###[5wryo]###[wryo]###[yo]###[Dh]###
-[wry]###[sg]###[O18sg]###[(wt]###g###D###
-[(wtd]###D###[^E]###[Eyis]###s###
-[Eyid]###[s%WOD]###D###[WYts]###D###
-[tWY]###s###[s%WOD]###[tWYD]###g###D###
-[WYtd]###s###[Y5wos]###P###[Ewyo]###P###P###
-[Ewy]###o###[5woYP]###[Ewyo]###P###s###
-[Ewy]###d###[18oPD]###d###[wt(D]###s###
-[(wt]###[4qsOD]###d###[qetD]###s###
-[qeth]###[^EPdg]###[Eyig]###g###D###
-[Eyig]###[Pdh]###[oh]###[ig]###[oh]###[uf]###[oh]###
-[yd]###[oh]###[18osfh]###[osfh]###[0wt]###[uf]###[ig]###
-[0wtoh]###[pj]###[5woadh]###[ig]###[9wr]###[uf]###
-[9wryd]###[6eupsf]###[upsf]###[0et]###[ts]###[yd]###
-[0etuf]###[ig]###[30uoaf]###[yd]###[0wr]###[ts]###
-[0wra]###[4q]###[ep]###[qet]###[ts]###
-[qetpj]###[30osfh]###[osfh]###[0wrts]###
-[0wryd]###[uf]###[P29idg]###[uf]###[qey]###[yd]###
-[qetys]###[30uoaf]###[W0rig]###[uf]###[yd]###
-[W0r]###[18osfh]###[osfh]###[0wt]###[uf]###[ig]###
-[0wtoh]###[pj]###[5woadh]###[ig]###[9wr]###[uf]###
-[9wryd]###[6eupsf]###[upsf]###[0et]###[ts]###[yd]###
-[0etuf]###[ig]###[30uoaf]###[yd]###[0wr]###[ts]###
-[0wra]###[4q]###[ep]###[qet]###[ts]###
-[qetpj]###[30osfh]###[osfh]###[0wrts]###
-[0wryd]###[uf]###[P29idg]###[uf]###[qey]###[yd]###
-[qetys]###[5wy]###o###a###d###[ryo]###[ts]###
-[ryoa]###[%Wts]###O###o###[(Wti]###Y###
-[(Wty]###Y###[^d]###J###H###[E9qh]###g###
-[9qED]###g###[8o]###[qs]###[wg]###[ig]###[oh]###
-[ig]###[uf]
 
 DBZ DRAGON SOUL
 [(YPo] [(YPo] (YoP [4qips] [4qips]
@@ -5895,6 +5838,19 @@ GOLDEN HOUR - JVKE
 [sl][DZ]
 [9qedz]Ieyp
 dpGdj
+
+ABANDONED
+[etuf] s [qetif] s [wtuof] s h [5wod] [wryos] [oa] [6pf] [etups] [etups] [etups]
+[4pf] [qetips] [qetips] [qetips] [8of] [8wtos] [8wtosh] [8wtos]d [5oa] [woa]
+r [os] y [oa] [6x] [el] u p s f s [4x] [qil] i s g s i [8l] w t u [ol] s [oz] u [5k]
+9 w r [yl] o [yk] r [6j] 0 t u p s f [sjl] j [ujl] t [ejl] 0 [6jz] [4jl] 8 q e [tjx] i
+p s [gjc] s [pjx] i [tjz] q [tjl] q [8hx] 8 w [thl] u o s [ohl] u [thl] w [8hl] w [thz] 8
+[5hk] w y [ohk] a d h x d c a x z [6l] e [psf] x l [4ql] i [sgx] l [8tl] [sh] [hl] h [wk]
+[yoad] h [ad] [60eu] [48qeu] [et] [8wu] [80] [5wy] [59wr] [6p] [etups] [tups] [tups]
+[4pf] [qetips] [tips] [tps] [8of] [tos] [tos] [tos] [5od] [wryoa] [wryoaf] [wyoad]
+[6psf] [etups] [et] [ps] u [usg] [sf] [4psf] q [tips] i [ipsf] i [tps] [8os] [tuosf]
+[osfhl] [osfhk] [5adh] w y a d h k z h k z v n v s [6s] [etuf] [4s] [qtif]
+[8os] [tuf] [5od] [wryos] a 6 0 e t u p s f j b
 
 KIMI NO NA WA - KATAWARE DOKI
 [euopsfh] | [qtipd] | [tosf] ~
@@ -17429,4 +17385,3 @@ q\-[8y]\-q t [8o] o
 t\-[wy]\-t\-[wt] y
 5\-[9t] y w\-[9t]\-
 [wi]\-9\-[wu]\-9
-
