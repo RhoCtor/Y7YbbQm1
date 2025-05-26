@@ -13297,6 +13297,79 @@ z [yz] x [oz] - l - [shl],
 h, [hl] l [lz] h l-z-l-h z
 Transpose by: 0
 d-h [dh]-j-h d h-d, h
+/
+Transpose by: -5 
+Tempo: 120 BPM
+[8tsf] - [sf] [sg] - [sf] - [sf]
+[0u] - [sf] [sg] - [sf] - [sf]
+[qi] - [sf] [sg] - [sf] - [dh]
+[wo] [dj] - [dh] - [dg] - [sf]
+[8t] - [sf] [sg] - [sf] - [sf]
+[0u] - [sf] [sg] - [sf] - [sf]
+[qi] - [sf] [sg] - [sf] - [dh]
+[wo] [dj] - [dh] - [dg] - [sf]
+8 w [th] [uh] l l t k
+[0j] w [th] [uh] l l t k
+[qj] e [th] [ih] j - [tj] -
+w e t y - t w -
+8 w [th] [uh] l l t k
+[0j] w [th] [uh] l l t k
+[qj] e [th] [ih] j h [tg],
+[wygjz] - [wygjz] [wygjz] - [wygjz] -
+8 w [th] [uh] l l t k
+[0j] w [th] [uh] l l t k
+[qj] e [th] [ih] j - [tj] -
+w e t y - t w -
+8 w [th] [uh] l l t k
+[0j] w [th] [uh] l l t k
+[qj] e [th] [ih] j h [tg],
+[wygjz] - [wygjz] [wygjz] - [wygjz] -
+e t [ul] [pl] [ec] [tc] u [px]
+[wz] t [ul] [pl] [wc] [tc] u [px]
+[qz] e [tl] [ul] [ql] [ez] [tz] u
+[Etiz]....
+8 w [th] [uh] l l t k
+[0j] w [th] [uh] l l t k
+[qj] e [th] [ih] l - t z
+[wery] l....
+[8tl] - l z [tuo] l,
+[7r] - x c [ruox] - z -
+[6el] - l z [tip] l,
+[5w] - z x [ryoz],
+[8tl] - l z [tuo] l l -
+[7r] - x c [ruox] - z -
+[6el] - l z [tip] l l -
+[5w] l z x [ryioz],
+[wx] - [tc] x [uo] c x -
+W c [rx] c [Oyx] z l -
+e z [tul] z w l [tu] k
+[Ql] - t - [upx] - z - l -
+[wz] - y - i - p -
+w....
+[8tl] - l z [tuo] l,
+[7r] - x c [ruox] - z -
+[6el] - l z [tip] l,
+[5w] - z x [ryoz],
+[8tl] - l z [tuo] l l -
+[7r] - x c [ruox] - z -
+[6el] - l z [tip] l l -
+[5w] l z x [ryioz],
+[wx] - [tc] x [uo] c x -
+W c [rx] c [Oyx] z l -
+e z [tul] z w l [tu] k
+[Ql] - t - [upx] - z - l -
+[wz] - y - i - p -
+[yipgjz] - z x z - l -
+[8tl] - [sf] [sg] - [sf] - [sf]
+[0u] - [sf] [sg] - [sf] - [sf]
+[qi] - [sf] [sg] - [sf] - [dh]
+[wo] - z x z - l -
+[8tl] - [sf] [sg] - [sf] - [sf]
+[0u] - [sf] [sg] - [sf] - [sf]
+[qi] - [sf] [sg] - [sf] - [dh]
+[wo] - z x z - l -
+[8tl] - u - o - s -
+[sfhl]-
 
 ASSIM SEM VOCE
 Transpose by: -5
@@ -13399,6 +13472,35 @@ o - s - d - [oh]...
 [psgj], [lc] - [psgj], [lc] - [psgj] - l -
 [osdhv], z - [osdh], [lv] - [odh] - v -
 [shl]... [hl]
+/
+Transpose by: -5 
+Tempo: 80 BPM
+[8osf] [0o] [ws] [0h] [8g] 0 [wf] 0
+[0oaf] [wo] [rs] [wh] [0g] w [rf] [wf]
+[4qipsf] e t [ed] [qs] [ed] [tf] [ef]
+[5woad] [rd] y r w r y r
+[8osf] [0o] [ws] [0h] [8g] 0 [wf] 0
+[0oaf] [wo] [rs] [wh] [0g] w [rf] [wf]
+[4qipsf] e t [ed] [qs] [ed] [tf] [ed]
+[5woad] r y r w r y [rd]
+[4qips] [es] [tg] [ej] [qh] e [tg] [ej]
+[5woad] r y r [wh] r y [ro]
+[%WOad] [tO] [us] [th] [Wg] t [uf] [tf]
+[6epsf] t u t e t [uf] [tf]
+[I9pdf] [Qd] [ed] [Qs] [9s] Q [ep] [Qf]
+[I9pdf] [Qd] [ed] [Qs] [9s] Q [ep] Q
+[5woadj] [rh] [yh] [rf] [wh] r [yj] [rh]
+[5woad] r y r w [rh] [yj] [rk]
+[S6epfl] [tl] [uk] [tk] [eh] t [uf] [tj]
+[0oaf] [wh] r w [0s] [ws] [rf] [wj]
+[4qipsj] [eh] [th] [eg] [qg] e [ts] [ed]
+[8osf] 0 w 0 8 [0f] [wj] [0k]
+[6epsfl] [tl] [uk] [tk] [eh] t [uf] [tj]
+[0oaf] [wh] r w [0s] [ws] [rf] [wj]
+[4qipsj] [eh] [th] [eg] [qg] e [ts] [ej]
+[5woadh] r y r [wj] r [yh] r
+[5woad] r y r [wj] r [yk] r
+[5woadh] r y r w r y r-
 
 ASA BRANCA - LUIZ GONZAGA
 8 - 8 [P8] - [0wo] - [8p] - i 8 [8o] - 
@@ -23875,4 +23977,3 @@ w - [8us] - w - t - w -
 9 - [5wp], 9-5 - [5wos] - [59y] -
 u-o-1-s - 5, [8t] t - [5w]
 0 - [4q], 4 - t, [180w]-
-
