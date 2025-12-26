@@ -26328,3 +26328,51 @@ e t [eip]
 w [9is] [5if] [9id]
 q [9io] [8us]
 w t w 8 -
+
+CCB 7
+Transpose by: 0 
+Tempo: 120 BPM
+
+w - w - [8tu]
+0 - w - 0 - [wtu] - 0
+[0tu] [8ti] - q - [etu] - q -
+[ety] - q - [8tu] - 0 -
+w - 0 - w - 0 - [6t]
+0 - w - 0 - [6w]
+w - [5ry] - 9 - q - 9 -
+[qry] - 9 [ry] [5ri] - 9 -
+[qru] - 9 - [qry] - 9 -
+[8tu] - 0 - w - 0 - w -
+0 - 8 - 0 - w -
+0 - w 7 w - [8tu]
+0 - w - 0 - [wtu] - 0 -
+[0wu] [8ti] - q - [etu] - q -
+[ety] - q - [8tu] - 0 - w -
+0 - w - 0 - [6t] -
+0 - w - 0 - [6w]
+w - [5ry] - 9 - q - 9 -
+[qry] - 9 [ry] [5ri] - 9 - [qru]
+9 - [qry] - 9 - [8u] -
+0 - w - 0 - w -
+0 - ^ - 0 - w - 0 -
+[Ewt] 0 [Et] - [4tp] - 8 -
+q - 8 - [qi] - 8 p [4is]
+8 - [qia] - 8 - [qip] -
+8 - [8uo] - 0 - w -
+0 - w - 0 - [6tu] - 0 -
+w - 0 - [6o] o -
+[5ro] 9 - q - 9 - [qi] -
+9 u - [5ry] - 9 - [qt] -
+9 - [qry] - 9 - [8u] -
+0 - w - 0 - w - 0 -
+^ - 0 - w - 0 -
+[Ewt] - 0 [Et] - [4tp] 8 -
+q - 8 - [qi] - 8 p - [4is] -
+8 - [qia] - 8 - [qip] -
+8 - [8uo] - 0 - w - 0 -
+w - 0 - [6tu] - 0 -
+w - 0 - [6o] o - [5ro]
+9 - q - 9 - [qi] -
+9 u - [5ry] 9 - [qu] -
+9 - [qry] - 9 - [8t] - 0 -
+w - 0 - 8 - 5 - [18] -
